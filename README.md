@@ -68,7 +68,8 @@ Now you are ready to run the script run it as many times as you want to iterate 
 
 ## Task 2
 * Create Dataset by Downloading, Cleaning and Labelling the images.
-* Build a Keras Model for Speceis Identification.
+* Build a Keras Model for Species Identification.
+
 ## Task 3
 
 #### Login Page
