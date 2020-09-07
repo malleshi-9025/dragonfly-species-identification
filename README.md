@@ -95,6 +95,10 @@ Now you are ready to run the script run it as many times as you want to iterate 
 
 <img width="400" height="800" src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/FinalSubmit_Page.jpg">
 
+#### Data Retrieved From Real-Time Firebase
+
+<img width="800" height="400" src="https://github.com/damaniayash/dragonfly-species-identification/blob/master/img/FirebaseRetrievedData.png">
+
 
 
 
