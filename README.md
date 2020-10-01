@@ -70,6 +70,9 @@ Now you are ready to run the script run it as many times as you want to iterate 
 * Create Dataset by Downloading, Cleaning and Labelling the images.
 * Build a Keras Model for Species Identification.
 
+#### Preview from the app
+<img src="img/Image_Classification.jpg" width="400">
+
 ## Task 3
 
 #### Login Page
