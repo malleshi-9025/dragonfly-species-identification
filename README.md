@@ -1,5 +1,5 @@
 # Dragonfly diversity informatics to achieve ecological assessments 
-* Dragonflies and damselflies (Odonata) are freshwater insects that are used as ecological indicators in ecological assessments.Many amateurs post dragonfly images for identification purposes on social media platforms such as Facebook. 
+* Dragonflies and damselflies (Odonata) are freshwater insects that are used as ecological indicators in ecological assessments. Many amateurs post dragonfly images for identification purposes on social media platforms such as Facebook. 
 * We are creating a pipeline to bring about biodiversity Informatics mediated by <b> social media, an AI-based app for taxonomy, and a checklist app for reporting dragonfly ecological data </b>, involving layman and citizens as stakeholders. With our tools and apps citizens can record dragonfly data that can be used in research, conservation, and education.  
 ## Task 1 [Get Data & EDA]
 ##### NOTE :- Before running the script make sure that you have logged in facebook developers and done the nescessary procedure for downloading.
