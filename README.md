@@ -4,7 +4,7 @@
 ## Task 1 [Get Data & EDA]
 ##### NOTE :- Before running the script make sure that you have logged in facebook developers and done the nescessary procedure for downloading.
 
-1. While running the script change group variable below to the group id of the page from which you want to scrape and also change the token to the token you have generated. After that just put the location of the /folder/(jsonfile name) in location variable where you want to keep your intermediate json file
+1. While running the script change group variable below to the group id of the page from which you want to scrape and also change the token to the token you have generated. After that just put the location of the /folder/(jsonfile name) in location variable where you want to keep your intermediate json file.
 
 ```
 #Main function
