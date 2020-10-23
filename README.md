@@ -20,7 +20,7 @@ def main(x,y):
     fieldst = field1+field2
     fields = [str(fieldst)]
     profile = graph.get_object(group,fields = fields) 
-    with open(location_path,"w") as outfile:
+    with open(location_path,"w") as outfile: #context handler
 	        json.dump(profile,outfile,indent=4, separators=(',', ': '))
 	        outfile.write('\n')
 ```
