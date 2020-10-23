@@ -7,6 +7,7 @@
 1. While running the script change group variable below to the group id of the page from which you want to scrape and also change the token to the token you have generated. After that just put the location of the /folder/(jsonfile name) in location variable where you want to keep your intermediate json file
 
 ```
+#Main function
 def main(x,y):
     group = '216593478390203'
     token = 'EAAJaZBipIeNYBAEuW1is0QNSXH7Bb9e9DJQ5z1tT0fIw8FLMmonqGC4Kim0tsDTj14P4SUZB7SbtPi8GQD3qofhHZAy1EUWCAys1ZBc5RAP91sTc79J1bSXnXZCrsZAsJBx1NDGicejW0G3B0spZA8CfmFeZAzsDJToC4XVWAmobI60at73hZB2J5WZAn1ZBFJrnCOYeiYKHFDAcHYuXZBZCwZAKkHsBK4BLC6wYSaoPpcm73xf4hA2ZAF8YP58sVvtNYBQ1QoZD'
