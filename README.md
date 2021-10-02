@@ -42,7 +42,9 @@ def main(x,y):
     f.write(date1f)
     f.close()
 ```
-Now you are ready to run the script run it as many times as you want to iterate through the start and end date like if you want data from 2012 to 2013 and you have choosen months as 2 than write 1-1-2012 in date.txt and run the script 6 times. 
+Now you are ready to run the script run it as many times as you want to iterate through the start 
+and end date like if you want data from 2012 to 2013 and you have choosen months as 2 than write 1-1-2012 in 
+date.txt and run the script 6 times. 
 
 3. Then we proceed to perform spatio-temporal analysis.
 ### Analysis
